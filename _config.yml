@@ -25,7 +25,7 @@ linkedin: TheMaxCoder
 stackoverflow: /users/5699956/max   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus: username
-#google_analytics: UA-69391421-1
+google_analytics: UA-140882441-1
 
 
 # needed for travis-ci build
